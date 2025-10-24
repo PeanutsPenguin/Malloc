@@ -1,2 +1,3 @@
 # Malloc
-School Project, Reproduce the malloc function
+
+This project is a school project to understand how the function malloc works in backend and reproduce it 
